@@ -1,0 +1,63 @@
+[33mcommit 2b602ecbfba676ffb93fbdfc070f12b31463109d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: f6fd493 a7f5c71
+Author: abelg02 <abelgg2002@gmail.com>
+Date:   Mon May 13 20:11:18 2024 +0200
+
+    Merge branch 'master' of https://github.com/abelg02/Trabajo_Grupal
+
+[33mcommit a7f5c71f5f94aef5116e79b9e566b4daa1dac633[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: 6fbf8cd 10b96b2
+Author: efertre <efertre8@gmail.com>
+Date:   Mon May 13 20:09:02 2024 +0200
+
+    Se ha hecho un merge con Ema y Paula
+
+[33mcommit 6fbf8cd48dfc6860b756b1da2a8605f00b524c7c[m
+Author: efertre <efertre8@gmail.com>
+Date:   Mon May 13 20:05:20 2024 +0200
+
+    Se ha modificado el inicio con el nombre Ema
+
+[33mcommit 10b96b28b25dc859d490fcd1bebd6c686ca5b110[m[33m ([m[1;31morigin/inicio_paula[m[33m)[m
+Author: Paula Sanchez Velez <psanchezvelez03gmail.com>
+Date:   Mon May 13 20:00:12 2024 +0200
+
+    Modificación cabecera Inicio: Mi nombre
+
+[33mcommit f6fd493cddd7707fe65c519afdf93dbce0f9f8ec[m
+Merge: 06ea774 2955c52
+Author: abelg02 <abelgg2002@gmail.com>
+Date:   Mon May 13 19:54:44 2024 +0200
+
+    Merge branch 'master' of https://github.com/abelg02/Trabajo_Grupal
+
+[33mcommit 60c92330413d8214559e63820c09cc927f0ff748[m
+Merge: 903c93c 2955c52
+Author: efertre <efertre8@gmail.com>
+Date:   Mon May 13 19:52:58 2024 +0200
+
+    Merge branch 'master' of https://github.com/abelg02/Trabajo_Grupal
+
+[33mcommit 06ea7742a8ca831f65c8322c8269bbf22dc702eb[m[33m ([m[1;31morigin/desarrollo_index[m[33m, [m[1;32mdesarrollo_index[m[33m)[m
+Author: abelg02 <abelgg2002@gmail.com>
+Date:   Mon May 13 19:40:01 2024 +0200
+
+    He añadido una nueva noticia al index.html
+
+[33mcommit 2955c524a46415541ae51f0e837c3c674a666e65[m[33m ([m[1;31morigin/desarrollo_contact[m[33m)[m
+Author: Paula Sanchez Velez <psanchezvelez03gmail.com>
+Date:   Mon May 13 19:37:59 2024 +0200
+
+    Modificación contact.html: Adición input NUmTelefono
+
+[33mcommit 903c93cbd1bf53f2f1c497db4ae17dc05231b7d2[m[33m ([m[1;31morigin/desarrollo_about[m[33m)[m
+Author: efertre <efertre8@gmail.com>
+Date:   Mon May 13 19:34:02 2024 +0200
+
+    Se ha modificado la página about
+
+[33mcommit 55725358283b978e107c417f3af46ceae78caa30[m
+Author: abelg02 <abelgg2002@gmail.com>
+Date:   Mon May 13 18:59:43 2024 +0200
+
+    Se ha añadido el proyecto
